@@ -2,7 +2,7 @@
 title: "IPFS for Content Distribution: Revolutionizing the Way We Share Data"
 date: 2023-04-15
 author: "Guillermo Morgan Zanetti"
-authorLink: "https://tomasfarias.dev"
+authorLink: "https://gigio.blogtest"
 tags: ["IPFS", "CDN", "interplanetary file system"]
 ---
 
@@ -14,22 +14,24 @@ IPFS allows users to address and retrieve files based on their content rather th
 
 This decentralized approach to file storage and access has several advantages over traditional centralized systems, including greater security, resilience, and performance. IPFS also provides a high degree of redundancy, as multiple copies of each block are stored across the network, ensuring that files can be retrieved even if some nodes go offline.
 
-## Real cases examples of IFPS
+## Case Examples of IPFS: How Companies Are Using It Today
 
 IPFS has a wide range of potential applications, including content distribution, data archiving, and distributed web applications. Here are some examples of how IPFS is revolutionizing the content distribution in the web:
 
-[DTube](https://d.tube): DTube is a decentralized video hosting platform that uses IPFS for content distribution. When the video is uploaded, IPFS allows the video to be distributed across the network of peers that make up the IPFS network, providing a more efficient and scalable way to distribute video content. When a user wants to view a video on DTube, their client retrieves the video blocks from IPFS and assembles them into the full video. This approach provides a more resilient and censorship-resistant alternative to traditional video hosting platforms.
+[DTube](https://d.tube): DTube is a decentralized video sharing web that is built on top of the blockchain-based platform, Steem. When the video is uploaded, IPFS allows the video to be distributed across the network of peers that make up the IPFS network, providing a more efficient and scalable way to distribute video content. When a user wants to view a video on DTube, their client retrieves the video blocks from IPFS and assembles them into the full video. This approach provides a more resilient and censorship-resistant alternative to traditional video hosting platforms.
 
-[Audiocoin](https://audius.co): Audiocoin is a music streaming platform that uses IPFS for content distribution. When an artist uploads a track to Audiocoin, the platform stores the track on IPFS, using a unique cryptographic hash to address the file. This allows users to stream the track directly from the IPFS network, rather than relying on a centralized server. The use of IPFS also provides greater security and privacy for users, as the network is more resilient against data breaches and attacks.
+[Audius](https://audius.co): Audius is a music streaming platform, that uses IPFS for the distribution of music. When an artist uploads a track to Audiocoin, the platform stores the track on IPFS, using a unique cryptographic hash to address the file. This allows users to stream the track directly from the IPFS network, rather than relying on a centralized server. The use of IPFS also provides greater security and privacy for users, as the network is more resilient against data breaches and attacks.
 
-[Fleek](https://fleek.co): Fleek is a platform that allows developers to host and distribute web applications using IPFS. When a developer uploads a web application to Fleek, the platform stores the application on IPFS, allowing users to access the application directly from the IPFS network. This approach provides a more efficient and scalable alternative to traditional web hosting services, as the application is distributed across the network of IPFS nodes, rather than relying on a centralized server.
+[Fleek](https://fleek.co): Fleek is a web hosting platform, that allows developers to host and distribute web applications using IPFS. When a developer uploads a web application to Fleek, the platform stores the application on IPFS, allowing users to access the application directly from the IPFS network. This approach provides a more efficient and scalable alternative to traditional web hosting services, as the application is distributed across the network of IPFS nodes, rather than relying on a centralized server. The platform provides developers with a suite of tools and services that simplify the process of building and deploying decentralized applications. This includes a user-friendly interface for uploading and managing content on IPFS, as well as a range of templates, frameworks, and integrations for building dApps on Ethereum.
 
-[PubPub](https://www.pubpub.org): PubPub is a platform for academic publishing that uses IPFS for content distribution. When an author uploads a publication to PubPub, the platform stores the publication on IPFS, using a unique cryptographic hash to address the file. This allows users to access the publication directly from the IPFS network, rather than relying on a centralized server. The use of IPFS also provides greater resilience against censorship and network failures, as the publication is distributed across the network of IPFS nodes.
+[PubPub](https://www.pubpub.org): PubPub is an open-source platform that enables collaborative publishing of books, articles, and other forms of academic content, and it uses IPFS for content distribution. An unique aspect of PubPub is its commitment to open access and open data, which means that all content published on the platform is freely available to readers and can be reused and repurposed by others.
 
 Overall, IPFS is enabling new models for content distribution that are more efficient, scalable, and secure than traditional centralized systems. As more developers and organizations begin to adopt IPFS, we can expect to see even more innovative use cases and applications emerge.
 
 
 ## Main Benefits of IFPS
+
+### Decentralization
 
 Decentralization: IPFS is a decentralized network that allows content to be distributed across multiple nodes rather than relying on a centralized server. This means that content can be accessed more quickly and reliably, as it is not subject to the bottlenecks and failures that can occur with centralized systems. It also provides greater resilience against censorship and network failures.
 
